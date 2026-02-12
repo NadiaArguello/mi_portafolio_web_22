@@ -1,0 +1,13 @@
+header {
+    height: 15vh;
+    background-color: brown;
+}
+
+footer {
+    height: 5vh;
+    background-color: brown;
+}
+
+main {
+    height: 75vh;
+}
